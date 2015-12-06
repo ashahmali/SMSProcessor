@@ -1,0 +1,9 @@
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\bin\Debug\AMSMSservice.exe
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\bin\Debug\AMSMSservice.pdb
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\obj\x86\Debug\AMSMSservice.exe
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\obj\x86\Debug\AMSMSservice.pdb
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\bin\Debug\AMSMSserviceDLL.dll
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\bin\Debug\AMSMSserviceDLL.pdb
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\obj\x86\Debug\AMSMSservice.csprojResolveAssemblyReference.cache
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\obj\x86\Debug\AMSMSservice.ProjectInstaller.resources
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\AMSMSservice\obj\x86\Debug\AMSMSservice.csproj.GenerateResource.Cache

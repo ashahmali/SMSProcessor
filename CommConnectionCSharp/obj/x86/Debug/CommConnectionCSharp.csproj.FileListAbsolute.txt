@@ -1,0 +1,4 @@
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\CommConnectionCSharp.exe
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\CommConnectionCSharp.pdb
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\CommConnectionCSharp.exe
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\CommConnectionCSharp.pdb

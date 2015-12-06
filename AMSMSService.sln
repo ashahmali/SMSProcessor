@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMSMSServiceDLL", "CommConnectionCSharp\AMSMSServiceDLL.csproj", "{D5031157-BBDA-44E7-8D0B-EF0E6FA42666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMSMSservice", "AMSMSservice\AMSMSservice.csproj", "{6ED409EA-DDDE-4731-95ED-969FAD47197F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5031157-BBDA-44E7-8D0B-EF0E6FA42666}.Debug|x86.ActiveCfg = Debug|x86
+		{D5031157-BBDA-44E7-8D0B-EF0E6FA42666}.Debug|x86.Build.0 = Debug|x86
+		{D5031157-BBDA-44E7-8D0B-EF0E6FA42666}.Release|x86.ActiveCfg = Release|x86
+		{D5031157-BBDA-44E7-8D0B-EF0E6FA42666}.Release|x86.Build.0 = Release|x86
+		{6ED409EA-DDDE-4731-95ED-969FAD47197F}.Debug|x86.ActiveCfg = Debug|x86
+		{6ED409EA-DDDE-4731-95ED-969FAD47197F}.Debug|x86.Build.0 = Debug|x86
+		{6ED409EA-DDDE-4731-95ED-969FAD47197F}.Release|x86.ActiveCfg = Release|x86
+		{6ED409EA-DDDE-4731-95ED-969FAD47197F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\CommConnectionCSharp.pdb
+\\nms-dmf-svr1\users\nmsadmin\documents\visual studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\CommConnectionCSharp.pdb
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\AMSMSService.csprojResolveAssemblyReference.cache
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\CommConnectionCSharp.dll
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\CommConnectionCSharp.dll

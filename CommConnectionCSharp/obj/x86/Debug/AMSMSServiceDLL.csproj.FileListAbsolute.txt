@@ -1,0 +1,4 @@
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\AMSMSserviceDLL.dll
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\bin\Debug\AMSMSserviceDLL.pdb
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\AMSMSserviceDLL.dll
+\\NMS-DMF-SVR1\Users\nmsadmin\Documents\Visual Studio 2010\Projects\CommConnectionCSharp\CommConnectionCSharp\obj\x86\Debug\AMSMSserviceDLL.pdb
